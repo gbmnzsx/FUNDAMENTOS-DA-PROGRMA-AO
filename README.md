@@ -13,10 +13,19 @@
 * -> multiplicação 
 / - > divisao 
 
+## Operadores Logicos 
+
+and -> e -> Se duas condições forem verdadeiras, o resultado é verdadeiro
+or -> ou -> Se pelomenos uma condição for verdadeira, o resultado é verdadeiro.
+not ->
+
+
+
+
 ## Métodos em python
 
 1. print() -> Exibe informações no terminal.
-
+2. input() -> Capturar uma informação no terminal
 
 ## Format em python
 
