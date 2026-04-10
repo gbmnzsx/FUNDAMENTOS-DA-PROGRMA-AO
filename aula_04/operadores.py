@@ -1,19 +1,16 @@
-# Operadores Matematicos
+
+# 1. Operadores Matemáticos
 numero_um = 20
-numero_dois = 15 
+numero_dois = 15
 
 soma = numero_um + numero_dois
-print(soma)
+print(f"A soma entre {numero_um} + {numero_dois} = {soma}")
 
-numero_um = 25
-numero_dois = 35
-
-subtracao=numero_um - numero_dois
+subtracao = numero_um - numero_dois
 print(subtracao)
 
-divisao=numero_umumero_dois
+multiplicacao = numero_um * numero_dois
+print(multiplicacao)
 
-numero_um = 10
-numero_dois= 2
-
+divisao = numero_um / numero_dois
 print(divisao)
