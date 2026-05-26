@@ -78,3 +78,16 @@ while condicao:
  `propriedade` -> Variável em memória que irá receber um argumento;
 
  `argumento` -> [Valor] que ira preeencher o espaço da propriedade;
+
+ ## Estruturas de Dados
+ `list ou lista` -> Armazena valores avulsos e podem ser heterogenea ou 
+ homogenea. Ou seja, pode guardar valores de um mesmo tipo ou de diferentes tipos.
+ Ex: list= [] // lista vazia
+ list= ["Gabriel",18,1.70]
+
+ `dict ou dicionário` -> Armazena conjuntos de valores (chave:valor).As chaves 
+ e valores podem ser heterogenea ou homogenea
+
+ 1. Para obter o valor de um conjunto em dict,voce acessa pela chave.
+ Ex: dados_usuario ={"nome: "Gabriel", "cpf": 145678908-66 , "idade": 18}
+ dados_usuario["nome"] => Devolve o valor,que é "Gabriel".
